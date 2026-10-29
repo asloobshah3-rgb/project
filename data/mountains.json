@@ -1,0 +1,1004 @@
+[
+  {
+    "id": "k2",
+    "name": "K2",
+    "alternativeNames": [
+      "Mount Godwin-Austen",
+      "Chhogori (usage disputed)",
+      "Qogir"
+    ],
+    "nameOrigin": "K2 is the Great Trigonometrical Survey's second Karakoram peak designation. Chhogori is sometimes proposed as a local name, but its historical local use is disputed; Qogir is the official Chinese name.",
+    "elevationM": 8611,
+    "country": ["Pakistan", "China"],
+    "mountainRange": "Karakoram",
+    "region": "Baltistan, Gilgit-Baltistan; summit on the Pakistan-China frontier",
+    "coordinates": { "lat": 35.8825, "lon": 76.5133 },
+    "shortDescription": "The Karakoram's highest summit rises in a steep, remote pyramid above the Godwin-Austen Glacier.",
+    "climbingNotes": "The Abruzzi Spur crosses steep rock ribs, ice and the exposed Bottleneck beneath seracs. Severe storms and limited retreat options make forecasts, acclimatization and turnaround decisions critical.",
+    "historicalStory": "Surveyor Thomas Montgomerie marked the peak K2 during the 1856 Great Trigonometrical Survey. The survey label endured because no single local name was established for the remote summit; Chhogori is sometimes offered, but its historical local use is disputed. K2's first ascent came only after many failed attempts and remains a defining chapter in high-altitude mountaineering.",
+    "firstAscent": {
+      "date": "1954-07-31",
+      "climbers": ["Lino Lacedelli", "Achille Compagnoni"],
+      "notes": "Italian expedition led by Ardito Desio, via the Abruzzi Spur. The expedition's treatment of Walter Bonatti and Pakistani porter Amir Mehdi during the summit attempt was later contested and documented."
+    },
+    "notableExpeditions": [
+      "1909 Duke of the Abruzzi expedition explored the route now called the Abruzzi Spur.",
+      "1954 Italian expedition made the first ascent; later historical accounts documented the oxygen-carrying ordeal of Walter Bonatti and Amir Mehdi.",
+      "On 16 January 2021, ten Nepali climbers completed the first winter ascent."
+    ],
+    "geography": "K2 is the highest peak of the Karakoram and stands near the Baltoro Glacier and Concordia. Its steep relief, exposed ridges and serac-threatened Bottleneck make retreat difficult.",
+    "interestingFacts": [
+      "The K in K2 denotes Karakoram; the number came from survey notation.",
+      "K2 was the last of the world's 8,000-metre peaks to receive a winter ascent, in 2021."
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=35.8825%2C76.5133",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Chogori.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Chogori.jpg",
+    "imageCredit": "See the linked Wikimedia Commons file page for photographer attribution.",
+    "imageLicense": "See the linked Wikimedia Commons file page for the file-specific license and terms.",
+    "references": [
+      {
+        "label": "K2 overview and history",
+        "url": "https://en.wikipedia.org/wiki/K2"
+      },
+      {
+        "label": "American Alpine Journal: K2, 1954",
+        "url": "https://publications.americanalpineclub.org/articles/12195500100"
+      },
+      {
+        "label": "First winter ascent reporting",
+        "url": "https://kathmandupost.com/national/2021/01/16/mission-possible-ten-nepalis-become-first-team-to-climb-mt-k2-in-winter"
+      }
+    ]
+  },
+  {
+    "id": "nanga-parbat",
+    "name": "Nanga Parbat",
+    "alternativeNames": ["Diamer", "Nanga Parbat (Nanga Parvata)"],
+    "nameOrigin": "Nanga Parbat is commonly interpreted from Sanskrit-derived words as “Naked Mountain.” Diamer is also a regional name.",
+    "elevationM": 8126,
+    "country": ["Pakistan"],
+    "mountainRange": "Himalaya",
+    "region": "Diamer District, Gilgit-Baltistan, Pakistan",
+    "coordinates": { "lat": 35.2375, "lon": 74.5892 },
+    "shortDescription": "The westernmost major Himalayan eight-thousander is known for immense relief above the Indus and the Rupal Face.",
+    "climbingNotes": "The mountain's major faces involve long, committing routes; the Rupal Face is steep and exposed, while the Diamir and Rakhiot sides have their own glacier and avalanche hazards. Storms and remoteness complicate retreat and rescue.",
+    "historicalStory": "Nanga Parbat means “Naked Mountain” in Sanskrit-derived usage. Its long climbing history includes repeated early tragedies, which led to the enduring but informal nickname “Killer Mountain.” That label is not a technical measure of risk: the mountain's hazards vary by route, season and conditions.",
+    "firstAscent": {
+      "date": "1953-07-03",
+      "climbers": ["Hermann Buhl"],
+      "notes": "Buhl made the first ascent alone after his expedition partners turned back. He completed the climb without supplemental oxygen; the exact details of his descent are recorded in expedition histories."
+    },
+    "notableExpeditions": [
+      "1934 German expedition led by Willy Merkl ended in a major storm tragedy.",
+      "1953 German-Austrian expedition achieved the first ascent by the Rakhiot route.",
+      "1970 German expedition led by Karl Herrligkoffer made the first ascent of the Rupal Face; Reinhold and Günther Messner descended the Diamir side."
+    ],
+    "geography": "The mountain rises above the Indus valley and has an enormous south face, the Rupal Face. Its position at the western end of the Himalaya gives it a distinct setting between the Himalaya and Karakoram.",
+    "interestingFacts": [
+      "The Rupal Face rises roughly 4,600 metres above its base.",
+      "Hermann Buhl's 1953 summit was the first ascent of an 8,000-metre peak completed solo."
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=35.2375%2C74.5892",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Fairy_Meadows_and_the_view_of_Nanga_Parbat.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Fairy_Meadows_and_the_view_of_Nanga_Parbat.jpg",
+    "imageCredit": "See the linked Wikimedia Commons file page for photographer attribution.",
+    "imageLicense": "See the linked Wikimedia Commons file page for the file-specific license and terms.",
+    "references": [
+      {
+        "label": "Nanga Parbat overview",
+        "url": "https://en.wikipedia.org/wiki/Nanga_Parbat"
+      },
+      {
+        "label": "Himalayan Database",
+        "url": "https://www.himalayandatabase.com/"
+      },
+      {
+        "label": "American Alpine Journal publications",
+        "url": "https://publications.americanalpineclub.org/"
+      }
+    ]
+  },
+  {
+    "id": "broad-peak",
+    "name": "Broad Peak",
+    "alternativeNames": ["Falchan Kangri", "K3"],
+    "nameOrigin": "Conway introduced the English name in 1892 for the broad summit ridge. Falchan Kangri is a documented Balti name; a literal English translation is not common local usage.",
+    "elevationM": 8051,
+    "country": ["Pakistan", "China"],
+    "mountainRange": "Karakoram",
+    "region": "Baltoro Muztagh, near Concordia; Pakistan-China frontier",
+    "coordinates": { "lat": 35.8136, "lon": 76.5653 },
+    "shortDescription": "A long, broad summit ridge sits about eight kilometres from K2 in the central Karakoram.",
+    "climbingNotes": "The long snow-and-ice ridge is exposed to high winds, deep snow and storms. Its upper slopes demand careful acclimatization and descent timing; the 2013 winter ascent ended with two climbers lost on descent.",
+    "historicalStory": "British explorer Martin Conway introduced the English name Broad Peak in 1892, comparing its elongated summit to the Alpine Breithorn. The Balti name Falchan Kangri is documented, while a literal translation is not in ordinary local use. An Austrian team achieved the first ascent in 1957 in a lightweight style unusual for the period.",
+    "firstAscent": {
+      "date": "1957-06-09",
+      "climbers": [
+        "Fritz Wintersteller",
+        "Marcus Schmuck",
+        "Kurt Diemberger",
+        "Hermann Buhl"
+      ],
+      "notes": "The Austrian team reached the summit between 8 and 9 June; sources commonly give 9 June. The ascent was completed without supplemental oxygen or high-altitude porters."
+    },
+    "notableExpeditions": [
+      "The Austrian 1957 expedition made the first ascent by the west spur.",
+      "On 5 March 2013, Maciej Berbeka, Adam Bielecki, Tomasz Kowalski and Artur Małek made the first winter ascent; Berbeka and Kowalski died during descent."
+    ],
+    "geography": "Broad Peak is part of the Gasherbrum massif on the Baltoro Glacier watershed. Its main summit is one of several high points along a ridge extending for more than a kilometre.",
+    "interestingFacts": [
+      "The English name describes the mountain's unusually wide summit ridge.",
+      "Broad Peak is an eight-thousander on the Pakistan-China border."
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=35.8136%2C76.5653",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/7_15_BroadPeak.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:7_15_BroadPeak.jpg",
+    "imageCredit": "See the linked Wikimedia Commons file page for photographer attribution.",
+    "imageLicense": "See the linked Wikimedia Commons file page for the file-specific license and terms.",
+    "references": [
+      {
+        "label": "Broad Peak overview",
+        "url": "https://en.wikipedia.org/wiki/Broad_Peak"
+      },
+      {
+        "label": "First winter ascent, American Alpine Journal",
+        "url": "https://publications.americanalpineclub.org/articles/13201212507"
+      },
+      {
+        "label": "1957 Austrian expedition archive",
+        "url": "https://web.archive.org/web/20080820003839/http://www.broadpeak.org/"
+      }
+    ]
+  },
+  {
+    "id": "gasherbrum-i",
+    "name": "Gasherbrum I",
+    "alternativeNames": ["Hidden Peak", "K5"],
+    "nameOrigin": "The Balti elements rgasha and brum are commonly glossed as “beautiful mountain.” Surveyor Montgomerie used K5; Conway later coined Hidden Peak for its obscured approach.",
+    "elevationM": 8080,
+    "country": ["Pakistan", "China"],
+    "mountainRange": "Karakoram",
+    "region": "Gasherbrum massif, Baltoro Muztagh; Pakistan-China frontier",
+    "coordinates": { "lat": 35.7244, "lon": 76.6964 },
+    "shortDescription": "Known as Hidden Peak, Gasherbrum I is an eight-thousander set deep in the upper Baltoro region.",
+    "climbingNotes": "The remote approach and high glacier camps precede steep snow, ice and ridge terrain. Storms, crevasses, avalanche exposure and altitude illness are major hazards; rescue options are limited.",
+    "historicalStory": "Surveyor Thomas Montgomerie recorded the peak as K5 in 1856. William Martin Conway later used the name Hidden Peak to describe how the summit is screened by nearer mountains on much of the approach. In Balti, Gasherbrum is usually explained from words meaning “beautiful mountain,” rather than the often-repeated “shining wall.”",
+    "firstAscent": {
+      "date": "1958-07-05",
+      "climbers": ["Pete Schoening", "Andy Kauffman"],
+      "notes": "First ascent by an American expedition led by Nicholas Clinch, via the south-southeast ridge."
+    },
+    "notableExpeditions": [
+      "In 1975, Reinhold Messner and Peter Habeler made a new-route alpine-style ascent.",
+      "On 9 March 2012, Adam Bielecki and Janusz Gołąb completed the first winter ascent without supplemental oxygen.",
+      "The 1984 Gasherbrum I-II traverse by Reinhold Messner and Hans Kammerlander linked both summits without returning to base camp."
+    ],
+    "geography": "Gasherbrum I is the highest summit of the Gasherbrum massif and lies above the upper Baltoro Glacier. Its remoteness means expeditions approach through a long glacier and high camps.",
+    "interestingFacts": [
+      "Hidden Peak was named for its obscured appearance from the Baltoro approach.",
+      "It is the 11th-highest mountain on Earth by commonly used elevations."
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=35.7244%2C76.6964",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/HiddenPeak.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:HiddenPeak.jpg",
+    "imageCredit": "See the linked Wikimedia Commons file page for photographer attribution.",
+    "imageLicense": "See the linked Wikimedia Commons file page for the file-specific license and terms.",
+    "references": [
+      {
+        "label": "Gasherbrum I overview",
+        "url": "https://en.wikipedia.org/wiki/Gasherbrum_I"
+      },
+      {
+        "label": "American Alpine Journal: first winter ascent",
+        "url": "https://publications.americanalpineclub.org/articles/13201212934/Gasherbrum-I-8086m-First-Winter-Ascent"
+      },
+      {
+        "label": "Balti place names, American Alpine Journal",
+        "url": "https://publications.americanalpineclub.org/articles/12197505200"
+      }
+    ]
+  },
+  {
+    "id": "gasherbrum-ii",
+    "name": "Gasherbrum II",
+    "alternativeNames": ["K4", "G2"],
+    "nameOrigin": "Gasherbrum is commonly derived from Balti rgasha (“beautiful”) and brum (“mountain”); K4 was the survey designation. G2 is a common shorthand.",
+    "elevationM": 8035,
+    "country": ["Pakistan", "China"],
+    "mountainRange": "Karakoram",
+    "region": "Gasherbrum massif, Baltoro Glacier headwaters; Pakistan-China frontier",
+    "coordinates": { "lat": 35.7583, "lon": 76.6533 },
+    "shortDescription": "The third-highest summit of the Gasherbrum group is a comparatively accessible, but still serious, Karakoram eight-thousander.",
+    "climbingNotes": "The standard southwest ridge is a high-altitude snow and ice route exposed to storms, crevasses and avalanche conditions. “Comparatively accessible” does not mean safe; acclimatization and conservative weather decisions remain essential.",
+    "historicalStory": "Thomas Montgomerie labelled the peak K4 during the 1856 survey. The Balti name Gasherbrum is commonly interpreted as “beautiful mountain”; popular translations such as “shining wall” refer to a different peak and are not supported by the better linguistic account. Its first ascent followed a period of early exploration and a 1934 high-altitude reconnaissance.",
+    "firstAscent": {
+      "date": "1956-07-07",
+      "climbers": ["Fritz Moravec", "Josef Larch", "Hans Willenpart"],
+      "notes": "Austrian expedition, via the southwest ridge. The team returned to find supplies buried by avalanche before making a rapid summit push."
+    },
+    "notableExpeditions": [
+      "In 1984, Reinhold Messner and Hans Kammerlander traversed Gasherbrum II and Gasherbrum I without returning to base camp.",
+      "On 2 February 2011, Cory Richards, Denis Urubko and Simone Moro made the first winter ascent.",
+      "In 2007, Karl Unterkircher and Daniele Bernasconi made a first ascent via the north face from the Chinese side."
+    ],
+    "geography": "Gasherbrum II is part of the Gasherbrum massif at the head of the Baltoro Glacier. The commonly used southwest-ridge route crosses snow and glacier terrain exposed to storms and avalanche hazard.",
+    "interestingFacts": [
+      "The survey designation K4 predates the modern Gasherbrum II name.",
+      "A 2011 winter ascent became the first winter ascent of any Gasherbrum summit."
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=35.7583%2C76.6533",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Gasherbrum2.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Gasherbrum2.jpg",
+    "imageCredit": "See the linked Wikimedia Commons file page for photographer attribution.",
+    "imageLicense": "See the linked Wikimedia Commons file page for the file-specific license and terms.",
+    "references": [
+      {
+        "label": "Gasherbrum II overview",
+        "url": "https://en.wikipedia.org/wiki/Gasherbrum_II"
+      },
+      {
+        "label": "First winter ascent reporting",
+        "url": "https://www.climbing.com/news/first-winter-ascent-of-gasherbrum-ii/"
+      },
+      {
+        "label": "Wikimedia Commons Gasherbrum II media",
+        "url": "https://commons.wikimedia.org/wiki/Category:Gasherbrum_II"
+      }
+    ]
+  },
+  {
+    "id": "rakaposhi",
+    "name": "Rakaposhi",
+    "alternativeNames": ["Dumani", "Rakaposhi-Dumani"],
+    "nameOrigin": "Rakaposhi is often translated as “Shining Wall”; Dumani is commonly rendered “Mother of Mist” or “Mother of Clouds.”",
+    "elevationM": 7788,
+    "country": ["Pakistan"],
+    "mountainRange": "Karakoram",
+    "region": "Nagar and Bagrot valleys, Gilgit-Baltistan, Pakistan",
+    "coordinates": { "lat": 36.1425, "lon": 74.4892 },
+    "shortDescription": "Rakaposhi rises sharply above the Hunza and Nagar valleys, with nearly 6,000 metres of local relief on its north side.",
+    "climbingNotes": "Routes cross glacier, snow and rock, with long approaches and substantial objective relief. Avalanches, falling ice, exposed ridges and rapidly changing weather have affected attempts; the valley viewpoints are not representative of summit conditions.",
+    "historicalStory": "Rakaposhi is also known as Dumani, translated as “Mother of Mist” or “Mother of Clouds.” Reconnaissance and attempts began decades before the first recorded summit. The successful 1958 ascent used the southwest spur, and another successful ascent did not follow until 1979.",
+    "firstAscent": {
+      "date": "1958-06-25",
+      "climbers": ["Mike Banks", "Tom Patey"],
+      "notes": "First recorded successful ascent, by the southwest spur/ridge on a British expedition."
+    },
+    "notableExpeditions": [
+      "Martin Conway explored the south side in 1892.",
+      "A Japanese team made a North Spur ascent in 1979.",
+      "In 2021, Wajidullah Nagri, Jacob Vicek and Peter Macek made a successful ascent."
+    ],
+    "geography": "Rakaposhi is set between Nagar and Bagrot valleys in the Karakoram. Its steep north side rises about 5,900 metres over only 11.2 kilometres from the Hunza River.",
+    "interestingFacts": [
+      "The name Dumani refers to mist or clouds.",
+      "Rakaposhi is visible from points along the Karakoram Highway near Ghulmet."
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=36.1425%2C74.4892",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Rakaposhi_%26_Autumn.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Rakaposhi_%26_Autumn.jpg",
+    "imageCredit": "See the linked Wikimedia Commons file page for photographer attribution.",
+    "imageLicense": "See the linked Wikimedia Commons file page for the file-specific license and terms.",
+    "references": [
+      {
+        "label": "Rakaposhi overview",
+        "url": "https://en.wikipedia.org/wiki/Rakaposhi"
+      },
+      {
+        "label": "Rakaposhi Climbed, Himalayan Journal",
+        "url": "https://www.himalayanclub.org/hj/21/6/rakaposhi-climbed/"
+      },
+      {
+        "label": "Dawn: 2021 ascent",
+        "url": "https://www.dawn.com/news/1645566"
+      }
+    ]
+  },
+  {
+    "id": "tirich-mir",
+    "name": "Tirich Mir",
+    "alternativeNames": ["Terich Mir", "Terichmir", "Turch Mir"],
+    "nameOrigin": "Terich refers to the valley; mir is a Khowar word for mountain. Other proposed historical derivations are less certain.",
+    "elevationM": 7708,
+    "country": ["Pakistan"],
+    "mountainRange": "Hindu Kush",
+    "region": "Chitral District, Khyber Pakhtunkhwa, Pakistan",
+    "coordinates": { "lat": 36.2542, "lon": 71.8433 },
+    "shortDescription": "The highest peak of the Hindu Kush rises above Chitral and the glaciers of Tirich Valley.",
+    "climbingNotes": "The normal northwest-ridge route involves glacier, snow and ice travel at high altitude. Crevasses, storms, cold and altitude illness are relevant hazards; route conditions and access vary by season.",
+    "historicalStory": "The name combines the local valley name Terich with mir, a Khowar word for mountain. The 1950 Norwegian-British expedition made the first recorded ascent by the south ridge. A Czechoslovak team established the northwest-ridge route in 1967, now generally treated as the normal route.",
+    "firstAscent": {
+      "date": "1950-07-21",
+      "climbers": [
+        "Arne Næss",
+        "Per Kvernberg",
+        "Henry Berg",
+        "Tony Streather"
+      ],
+      "notes": "Norwegian-British expedition via the South Barum Glacier and south ridge."
+    },
+    "notableExpeditions": [
+      "The 1967 Czechoslovak expedition established the northwest-ridge route.",
+      "In 2023, Kazuya Hiraide and Kenro Nakajima made the first ascent of the 2,200-metre north face; the ascent was recognized posthumously after their deaths on K2 in 2024."
+    ],
+    "geography": "Tirich Mir's glaciers feed the Tirich Valley and the Chitral River system. The summit is surrounded by high Hindu Kush peaks and lies close to the Afghan border region.",
+    "interestingFacts": [
+      "It is the highest mountain in the Hindu Kush.",
+      "The south and north aspects have very different glacier and ridge approaches."
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=36.2542%2C71.8433",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Tirich_Mir_%28The_Kingdom_Of_Djinns_And_Fairies%29.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Tirich_Mir_(The_Kingdom_Of_Djinns_And_Fairies).jpg",
+    "imageCredit": "See the linked Wikimedia Commons file page for photographer attribution.",
+    "imageLicense": "See the linked Wikimedia Commons file page for the file-specific license and terms.",
+    "references": [
+      {
+        "label": "Tirich Mir overview",
+        "url": "https://en.wikipedia.org/wiki/Terich_Mir"
+      },
+      {
+        "label": "Norwegian expedition, Himalayan Journal",
+        "url": "https://www.himalayanclub.org/hj/16/5/norwegian-expedition-to-tirich-mir-1950/"
+      },
+      {
+        "label": "American Alpine Journal: north face",
+        "url": "https://publications.americanalpineclub.org/articles/13201216815"
+      }
+    ]
+  },
+  {
+    "id": "masherbrum",
+    "name": "Masherbrum",
+    "alternativeNames": ["K1"],
+    "nameOrigin": "The element brum means mountain in Balti, but the origin of masher is debated. Popular translations such as “Queen of Peaks” are not established.",
+    "elevationM": 7821,
+    "country": ["Pakistan"],
+    "mountainRange": "Karakoram",
+    "region": "Ghanche District, Gilgit-Baltistan, Pakistan; south of the Baltoro Glacier",
+    "coordinates": { "lat": 35.64, "lon": 76.3058 },
+    "shortDescription": "The first Karakoram summit assigned a K-number is a complex 7,821-metre peak south of the Baltoro Glacier.",
+    "climbingNotes": "Masherbrum's steep faces, complex ridges and long approaches make it a serious expedition peak. Historical attempts encountered bad weather, frostbite, altitude illness and avalanche danger; the Hushe Valley is the usual approach area.",
+    "historicalStory": "Thomas Montgomerie marked Masherbrum K1 in 1856, the first peak in the Karakoram he recorded from Mount Haramukh. The exact etymology of “Masher” remains debated; brum is understood to mean mountain in Balti, but several popular translations lack firm support. After failed attempts in 1938, 1955 and 1957, the summit was reached in 1960.",
+    "firstAscent": {
+      "date": "1960-07-06",
+      "climbers": [
+        "George Irving Bell",
+        "Willi Unsoeld",
+        "Nick Clinch",
+        "Jawed Akhter"
+      ],
+      "notes": "An American-Pakistani expedition reached the summit by the southeast face. Sources vary in how they list the summit party; the reference list links expedition accounts."
+    },
+    "notableExpeditions": [
+      "Fanny and William Workman reconnoitered the mountain in 1911.",
+      "The 1938 attempt turned back close to the summit in bad weather.",
+      "A 1957 British attempt was abandoned after Bob Downes died of altitude illness."
+    ],
+    "geography": "Masherbrum is the highest peak of its namesake subrange, south of the Baltoro Glacier. Its normal approach follows the Hushe Valley, distinct from routes toward the central Karakoram eight-thousanders.",
+    "interestingFacts": [
+      "K1 is an original Great Trigonometrical Survey label, not a rank by height.",
+      "The name's etymology remains debated; claims such as “Queen of Peaks” are not established."
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=35.64%2C76.3058",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Masherbrum.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Masherbrum.jpg",
+    "imageCredit": "See the linked Wikimedia Commons file page for photographer attribution.",
+    "imageLicense": "See the linked Wikimedia Commons file page for the file-specific license and terms.",
+    "references": [
+      {
+        "label": "Masherbrum overview",
+        "url": "https://en.wikipedia.org/wiki/Masherbrum"
+      },
+      {
+        "label": "Balti place names, American Alpine Journal",
+        "url": "https://publications.americanalpineclub.org/articles/12197505200"
+      },
+      {
+        "label": "The Attempt on Masherbrum, Himalayan Journal",
+        "url": "https://www.himalayanclub.org/hj/11/3/the-attempt-on-masherbrum-1938/"
+      }
+    ]
+  },
+  {
+    "id": "batura-sar",
+    "name": "Batura Sar",
+    "alternativeNames": ["Batura I", "Batura I East"],
+    "nameOrigin": "Batura is also rendered Batura I; a reliable published etymology for the place-name is not established in the references listed here.",
+    "elevationM": 7795,
+    "country": ["Pakistan"],
+    "mountainRange": "Karakoram",
+    "region": "Gojal/Hunza District, Gilgit-Baltistan, Pakistan",
+    "coordinates": { "lat": 36.51, "lon": 74.5225 },
+    "shortDescription": "The high, ridge-shaped summit anchors the Batura Wall in the western Karakoram.",
+    "climbingNotes": "The first ascent report described ice up to 50 degrees and repeated storms. The long ridge and glacier approach require expedition logistics; avalanche exposure and sudden weather changes are important concerns.",
+    "historicalStory": "Climbing activity in the Batura Muztagh began later than in the central Karakoram. A 1959 attempt ended in the deaths of several climbers, probably in an avalanche; available reports do not establish that anyone reached the summit. The first documented ascent followed in 1976 via the south face and east ridge.",
+    "firstAscent": {
+      "date": "1976-06-30",
+      "climbers": ["Hubert Bleicher", "Herbert Oberhofer"],
+      "notes": "Göppingen Karakoram-Himalaya Expedition led by Alexander Schlee; ascent via the East Ridge after crossing the Batura Saddle."
+    },
+    "notableExpeditions": [
+      "The 1959 Batura Muztagh expedition made a fatal attempt; reports of a near-summit reach remain uncertain.",
+      "The 1976 German expedition made the first documented ascent.",
+      "Austrian climbers made a second ascent by a new route in 1983."
+    ],
+    "geography": "Batura Sar is the highest point of the Batura Muztagh and the apex of the long Batura Wall. It lies west of the Hunza-Nagar River and north of the Gojal/Hunza region.",
+    "interestingFacts": [
+      "Batura Sar is more ridge-like than a sharply pointed spire.",
+      "The first ascent report cited repeated storms as a major challenge."
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=36.51%2C74.5225",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Batura_Sar_%287795m%29_%2825570898320%29.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Batura_Sar_(7795m)_(25570898320).jpg",
+    "imageCredit": "See the linked Wikimedia Commons file page for photographer attribution.",
+    "imageLicense": "See the linked Wikimedia Commons file page for the file-specific license and terms.",
+    "references": [
+      {
+        "label": "Batura Sar overview",
+        "url": "https://en.wikipedia.org/wiki/Batura_Sar"
+      },
+      {
+        "label": "The Batura Muztagh Expedition, Alpine Journal",
+        "url": "https://www.alpinejournal.org.uk/Contents/Contents_1960_files/AJ%201960%2048-52%20Edwards%20Batura.pdf"
+      },
+      {
+        "label": "Himalayan Index",
+        "url": "https://www.alpine-club.org.uk/hi/"
+      }
+    ]
+  },
+  {
+    "id": "spantik",
+    "name": "Spantik",
+    "alternativeNames": ["Golden Peak", "Ganesh Chish"],
+    "nameOrigin": "Golden Peak refers to the pale yellow rock pillar on the northwest face. Ganesh Chish is another recorded local name; details of its etymology are not settled here.",
+    "elevationM": 7027,
+    "country": ["Pakistan"],
+    "mountainRange": "Karakoram",
+    "region": "Shigar District, Gilgit-Baltistan, Pakistan",
+    "coordinates": { "lat": 36.0573, "lon": 74.958 },
+    "shortDescription": "A striking Karakoram summit known for the Golden Pillar, a prominent rock feature on its northwest face.",
+    "climbingNotes": "The southeast ridge crosses rock, snow, ice and scree; the northwest Golden Pillar is highly technical. High altitude, crevasses, storms and descent conditions remain serious even on routes marketed as comparatively accessible.",
+    "historicalStory": "Spantik is also called Golden Peak, a name associated with the pale yellow rock pillar on its northwest face. Fanny and William Hunter Workman made the earliest recorded attempt in 1906 and came close to the summit. The first successful ascent was made by a German team in 1955 via the southeast ridge.",
+    "firstAscent": {
+      "date": "1955",
+      "climbers": ["Reiner Diepen", "Eduard Reinhardt", "Jochen Tietze"],
+      "notes": "First successful ascent via the southeast ridge from the Chogolungma Glacier. Exact day not established in the cited summaries."
+    },
+    "notableExpeditions": [
+      "The 1906 Workman expedition reached close to the summit but did not complete the ascent.",
+      "In 1987, Michael Fowler and Victor Saunders made the first ascent of the Golden Pillar on the northwest face.",
+      "In 2019, Tiphaine Duperier and Boris Langenstein completed a first ski descent."
+    ],
+    "geography": "Spantik lies in the Spantik-Sosbun subrange between Arandu in Shigar and Hopar in Nagar. The main southeast ridge climbs through mixed rock, snow, ice and scree.",
+    "interestingFacts": [
+      "The Golden Pillar rises on the northwest face and is a technical big-wall route.",
+      "The peak is frequently used as an introductory high-altitude expedition objective, but remains a serious 7,000-metre climb."
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=36.0573%2C74.9580",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Spantik_S%C3%BCd-West-Grat.JPG",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Spantik_S%C3%BCd-West-Grat.JPG",
+    "imageCredit": "See the linked Wikimedia Commons file page for photographer attribution.",
+    "imageLicense": "See the linked Wikimedia Commons file page for the file-specific license and terms.",
+    "references": [
+      {
+        "label": "Spantik overview",
+        "url": "https://en.wikipedia.org/wiki/Spantik"
+      },
+      {
+        "label": "The Golden Pillar, American Alpine Journal",
+        "url": "https://publications.americanalpineclub.org/articles/12198802100"
+      },
+      {
+        "label": "First ski descent, American Alpine Journal",
+        "url": "https://publications.americanalpineclub.org/articles/13201215523"
+      }
+    ]
+  },
+  {
+    "id": "passu-sar",
+    "name": "Passu Sar",
+    "alternativeNames": ["Passu I", "Pasu I"],
+    "nameOrigin": "Passu Sar takes its name from the nearby Passu area; sar is used in regional mountain names for a summit. A more specific etymology is not confirmed here.",
+    "elevationM": 7478,
+    "country": ["Pakistan"],
+    "mountainRange": "Karakoram",
+    "region": "Hunza District, Gilgit-Baltistan, Pakistan",
+    "coordinates": { "lat": 36.4878, "lon": 74.5878 },
+    "shortDescription": "The high point of the Passu massif sits on the main ridge of the Batura Muztagh, east of Batura Sar.",
+    "climbingNotes": "This remote high ridge involves glacier and mixed snow-and-rock travel. The first-ascent record is disputed, and the limited expedition history means route condition information should be treated as date-specific rather than assumed current.",
+    "historicalStory": "Passu Sar is also known as Passu I and forms the high point of the Passu massif. Its first-ascent history is disputed: one account credits a Japanese-Pakistani party in 1978, while another records a German team in 1994. The earlier account also records the death of Japanese climber Toshio Takahashi during the expedition; the ascent claim itself is not consistently corroborated.",
+    "firstAscent": {
+      "date": null,
+      "climbers": [],
+      "notes": "Disputed. Published accounts cite a 1978 Japanese-Pakistani claim and a 7 August 1994 German ascent by Max Wallner, Dirk Naumann, Ralf Lehmann and Volker Wurnig. Do not treat either as uncontested."
+    },
+    "notableExpeditions": [
+      "A 1978 Japanese-Pakistani expedition reported an ascent, but published records conflict.",
+      "A German team led by Max Wallner reported an ascent in 1994; the American Alpine Journal published a ski ascent account in 1995."
+    ],
+    "geography": "Passu Sar rises in the Batura Muztagh, about seven kilometres east of Batura Sar. The surrounding Passu massif includes separate summits, so nearby Batura Wall imagery can show several distinct peaks.",
+    "interestingFacts": [
+      "The summit is the highest point of the Passu massif.",
+      "The first-ascent status remains disputed in published records."
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=36.4878%2C74.5878",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Batura_valley_Passu.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Batura_valley_Passu.jpg",
+    "imageCredit": "See the linked Wikimedia Commons file page for photographer attribution.",
+    "imageLicense": "See the linked Wikimedia Commons file page for the file-specific license and terms.",
+    "references": [
+      {
+        "label": "Passu Sar overview",
+        "url": "https://en.wikipedia.org/wiki/Passu_Sar"
+      },
+      {
+        "label": "Pasu I ski ascent, American Alpine Journal",
+        "url": "https://publications.americanalpineclub.org/articles/12199529601"
+      },
+      {
+        "label": "Passu Sar attempt, American Alpine Journal",
+        "url": "https://publications.americanalpineclub.org/articles/12200236401"
+      }
+    ]
+  },
+  {
+    "id": "ultar-sar",
+    "name": "Ultar Sar",
+    "alternativeNames": ["Ultar", "Ultar II", "Bojohagur Duanasir II"],
+    "nameOrigin": "The peak is known as Ultar Sar; the surveyed and recorded names are more secure than a specific linguistic derivation, which is not established here.",
+    "elevationM": 7388,
+    "country": ["Pakistan"],
+    "mountainRange": "Karakoram",
+    "region": "Hunza Valley, Gilgit-Baltistan, Pakistan",
+    "coordinates": { "lat": 36.3997, "lon": 74.6919 },
+    "shortDescription": "A steep, prominent peak above Karimabad, Ultar Sar rises more than 5,000 metres above the Hunza River in a short horizontal distance.",
+    "climbingNotes": "The steep southwest and south-ridge routes have historically involved avalanche exposure, falling ice and rock, storms and limited retreat options. A 2018 avalanche trapped climbers above 5,800 metres and prompted a high-risk rescue.",
+    "historicalStory": "Ultar Sar drew attention in the late twentieth century as a major unclimbed Karakoram summit. Many expeditions attempted it through the 1980s and early 1990s without success and with fatalities. Separate Japanese teams made the first successful ascents in July 1996, after which the peak's reputation as an unclimbed challenge ended.",
+    "firstAscent": {
+      "date": "1996-07-11",
+      "climbers": ["Akito Yamazaki", "Kiyoshi Matsuoka"],
+      "notes": "First ascent by the Tokai section of the Japanese Alpine Club, via the southwest side in alpine style. A second Japanese team summited by the south ridge later that month."
+    },
+    "notableExpeditions": [
+      "Around fifteen expeditions attempted Ultar Sar between the 1980s and 1990s before the first ascent.",
+      "A second Japanese expedition made a separate ascent on 31 July 1996.",
+      "In 2018, a Pakistani Army rescue operation evacuated two surviving climbers after an avalanche; a third team member died."
+    ],
+    "geography": "Ultar Sar is the southeastern major summit of the Batura Muztagh, about ten kilometres northeast of Karimabad. Its glaciers feed the Hunza valley landscape.",
+    "interestingFacts": [
+      "The peak is prominent from Karimabad and the Baltit Fort area.",
+      "The 1990s claim that it was the world's highest unclimbed independent peak was incorrect; higher unclimbed peaks existed."
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=36.3997%2C74.6919",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ultar_sar.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Ultar_sar.jpg",
+    "imageCredit": "See the linked Wikimedia Commons file page for photographer attribution.",
+    "imageLicense": "See the linked Wikimedia Commons file page for the file-specific license and terms.",
+    "references": [
+      {
+        "label": "Ultar Sar overview",
+        "url": "https://en.wikipedia.org/wiki/Ultar"
+      },
+      {
+        "label": "Ultar Sar, first ascent, American Alpine Journal",
+        "url": "https://publications.americanalpineclub.org/articles/12199731002"
+      },
+      {
+        "label": "BBC Future: unclimbed mountains",
+        "url": "https://www.bbc.com/future/article/20140703-the-last-mountains-to-climb"
+      }
+    ]
+  },
+  {
+    "id": "malika-parbat",
+    "name": "Malika Parbat",
+    "alternativeNames": ["Malika Parbat North", "Queen of the Mountains"],
+    "nameOrigin": "The Urdu name means “Queen of the Mountains.” Malika Parbat includes several distinct summits, so the name can refer to the massif or a specific peak.",
+    "elevationM": 5290,
+    "country": ["Pakistan"],
+    "mountainRange": "Himalaya",
+    "region": "Kaghan Valley, Khyber Pakhtunkhwa, Pakistan",
+    "coordinates": { "lat": 34.8059, "lon": 73.7243 },
+    "shortDescription": "The highest summit of the Kaghan Valley rises above Lake Saiful Muluk in the western Himalaya.",
+    "climbingNotes": "The steep rock and snow slopes are technically serious despite the nearby tourist viewpoints. Clouds, hail, exposure and difficult descent terrain have affected expeditions; local folklore should not be confused with route-safety information.",
+    "historicalStory": "Malika Parbat means “Queen of the Mountains” in Urdu. The peak is often photographed above Lake Saiful Muluk, but its steep faces are more serious than that accessible viewpoint suggests. A British officer, B. W. Battye, and four Gurkha soldiers made the first recorded ascent of the North Peak in 1920; later ascents of the distinct main and south summits are reported separately.",
+    "firstAscent": {
+      "date": "1920",
+      "climbers": [
+        "B. W. Battye",
+        "Four Gurkha soldiers (names not confirmed in cited sources)"
+      ],
+      "notes": "First recorded ascent of Malika Parbat North. The source does not establish that this was the first ascent of every summit in the massif."
+    },
+    "notableExpeditions": [
+      "Trevor Braham, Norman Norris and Gene White made a second ascent of the North Peak in 1967.",
+      "Rashid Butt and Omer Aziz climbed the main peak in 1998; Butt died during descent.",
+      "Imran Junaidi and Jens Simonsen reported a North Peak ascent in 2012."
+    ],
+    "geography": "Malika Parbat has North, Cresta and South summits in the Kaghan Valley, about six kilometres south of Lake Saiful Muluk. The mountain forms part of the western Himalayan landscape of Khyber Pakhtunkhwa.",
+    "interestingFacts": [
+      "The 5,290-metre figure generally refers to the North Peak.",
+      "The mountain has several distinct summits; ascent claims should specify which one."
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=34.8059%2C73.7243",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Malka_Parbat%2C_Naran.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Malka_Parbat,_Naran.jpg",
+    "imageCredit": "See the linked Wikimedia Commons file page for photographer attribution.",
+    "imageLicense": "See the linked Wikimedia Commons file page for the file-specific license and terms.",
+    "references": [
+      {
+        "label": "Malika Parbat overview",
+        "url": "https://en.wikipedia.org/wiki/Malika_Parbat"
+      },
+      {
+        "label": "Pak-Danish expedition, Dawn",
+        "url": "https://www.dawn.com/news/739296"
+      },
+      {
+        "label": "Malika Parbat North ascents, American Alpine Journal",
+        "url": "https://publications.americanalpineclub.org/articles/13201212669"
+      }
+    ]
+  },
+  {
+    "id": "chogolisa",
+    "name": "Chogolisa",
+    "alternativeNames": ["Bride Peak (Chogolisa II)", "Chogolisa I"],
+    "nameOrigin": "Chogolisa is commonly translated as “Great Hunt.” Bride Peak is Martin Conway's name for the separate northeastern summit, Chogolisa II.",
+    "elevationM": 7665,
+    "country": ["Pakistan"],
+    "mountainRange": "Karakoram",
+    "region": "Baltoro Muztagh, near Concordia, Gilgit-Baltistan, Pakistan",
+    "coordinates": { "lat": 35.6142, "lon": 76.5792 },
+    "shortDescription": "Chogolisa's broad, trapezoidal skyline includes two high summits overlooking the Baltoro Glacier region.",
+    "climbingNotes": "The upper ridges are exposed and corniced; sudden storms and poor visibility make retreat hazardous. Hermann Buhl's fatal 1957 cornice fall is a reminder that summit proximity does not reduce objective risk.",
+    "historicalStory": "The Chogolisa massif has two principal high points. Martin Conway named the northeastern summit Bride Peak in 1892; Hermann Buhl later died after breaking through a cornice during a 1957 retreat from a near-summit attempt. The higher southwest summit, Chogolisa I, was first climbed in 1975 by an Austrian expedition.",
+    "firstAscent": {
+      "date": "1975-08-02",
+      "climbers": ["Fred Pressl", "Gustav Ammerer"],
+      "notes": "First ascent of the higher southwest summit, Chogolisa I, on an Austrian expedition led by Eduard Koblmüller. Chogolisa II was first climbed in 1958 by Masao Fujihira and Kazumasa Hirai."
+    },
+    "notableExpeditions": [
+      "In 1909, the Duke of the Abruzzi's party reached about 7,498 metres and set a mountaineering altitude record at the time.",
+      "In 1957, Hermann Buhl and Kurt Diemberger retreated close to the summit; Buhl was lost after a cornice collapse.",
+      "A Japanese university expedition made the first ascent of Chogolisa II in 1958."
+    ],
+    "geography": "Chogolisa stands near the Baltoro Glacier and Concordia, among the high Karakoram peaks. Chogolisa I is 7,665 metres; the northeastern Bride Peak is a separate, slightly lower summit.",
+    "interestingFacts": [
+      "The name Bride Peak refers to Chogolisa II, not the higher Chogolisa I.",
+      "Hermann Buhl's 1957 accident is one of the best-known episodes in the mountain's climbing history."
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=35.6142%2C76.5792",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Chogolisa.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Chogolisa.jpg",
+    "imageCredit": "See the linked Wikimedia Commons file page for photographer attribution.",
+    "imageLicense": "See the linked Wikimedia Commons file page for the file-specific license and terms.",
+    "references": [
+      {
+        "label": "Chogolisa overview",
+        "url": "https://en.wikipedia.org/wiki/Chogolisa"
+      },
+      {
+        "label": "Broad Peak and Chogolisa 1957, Himalayan Journal",
+        "url": "https://www.himalayanclub.org/hj/21/1/broad-peak-and-chogolisa-1957/"
+      },
+      {
+        "label": "Chogolisa, American Alpine Journal",
+        "url": "https://publications.americanalpineclub.org/articles/12197653701"
+      }
+    ]
+  },
+  {
+    "id": "trango-towers",
+    "name": "Trango Towers",
+    "alternativeNames": [
+      "Great Trango Tower",
+      "Nameless Tower (a separate tower in the group)"
+    ],
+    "nameOrigin": "A verified etymology for Trango is not established in the references listed here. Nameless Tower is an informal climbing name for a separate spire in the group.",
+    "elevationM": 6286,
+    "country": ["Pakistan"],
+    "mountainRange": "Karakoram",
+    "region": "Baltistan, Gilgit-Baltistan, Pakistan",
+    "coordinates": { "lat": 35.7572, "lon": 76.2014 },
+    "shortDescription": "A granite tower group above the Baltoro Glacier, renowned for steep, high-altitude big-wall routes.",
+    "climbingNotes": "Routes involve sustained technical granite climbing at altitude, long wall exposure, difficult haul logistics and complex descents. Weather can turn a committed big-wall route into a serious retreat problem.",
+    "historicalStory": "Trango Towers is a group rather than a single summit. This record uses the 6,286-metre Main Summit of Great Trango Tower for consistent elevation and mapping. Great Trango was first climbed in 1977, while the nearby Trango Tower commonly called Nameless Tower was first climbed in 1976; these are separate summits with separate ascent histories.",
+    "firstAscent": {
+      "date": "1977",
+      "climbers": [
+        "Galen Rowell",
+        "John Roskelley",
+        "Kim Schmitz",
+        "Dennis Hennek"
+      ],
+      "notes": "First ascent of Great Trango Tower's Main Summit. The separate Nameless Tower was first climbed in 1976 by Joe Brown, Mo Anthoine, Martin Boysen and Malcolm Howells."
+    },
+    "notableExpeditions": [
+      "The 1977 Great Trango ascent combined ice ramps, gullies and rock climbing on the upper south face.",
+      "In 1984, Hans Christian Doseth and Finn Dæhli climbed to Great Trango's East Summit and died during descent; a successful return from the East Summit followed in 1992.",
+      "In 1989, Kurt Albert, Wolfgang Güllich, Milan Sykora and Christoph Stiegler made the first ascent of Eternal Flame on Nameless Tower."
+    ],
+    "geography": "The granite towers line a northwest-southeast ridge between the Trango and Dunge glaciers. Great Trango has Main, East and West summits; the adjacent Nameless Tower is a distinct spire.",
+    "interestingFacts": [
+      "The East Face of Great Trango is a 1,340-metre near-vertical wall.",
+      "The popular name Nameless Tower refers to Trango Tower, not Great Trango."
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=35.7572%2C76.2014",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Trango_Towers_2.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Trango_Towers_2.jpg",
+    "imageCredit": "See the linked Wikimedia Commons file page for photographer attribution.",
+    "imageLicense": "See the linked Wikimedia Commons file page for the file-specific license and terms.",
+    "references": [
+      {
+        "label": "Trango Towers overview",
+        "url": "https://en.wikipedia.org/wiki/Trango_Towers"
+      },
+      {
+        "label": "Great Trango Tower, American Alpine Journal",
+        "url": "https://publications.americanalpineclub.org/articles/12197800100"
+      },
+      {
+        "label": "Eternal Flame first ascent, PlanetMountain",
+        "url": "https://www.planetmountain.com/english/News/shownews1.lasso?l=2&keyid=36990"
+      }
+    ]
+  },
+  {
+    "id": "muztagh-tower",
+    "name": "Muztagh Tower",
+    "alternativeNames": ["Mustagh Tower", "Muztagh Tower"],
+    "nameOrigin": "Muztagh is commonly translated as “ice mountain.” Mustagh is an alternate transliteration used in older expedition records.",
+    "elevationM": 7276,
+    "country": ["Pakistan", "China"],
+    "mountainRange": "Karakoram",
+    "region": "Baltistan and Xinjiang, on the Pakistan-China frontier",
+    "coordinates": { "lat": 35.8267, "lon": 76.3617 },
+    "shortDescription": "A twin-summited Karakoram peak whose dramatic profile was popularized by Vittorio Sella's 1909 photograph.",
+    "climbingNotes": "The first teams found that the apparent steepness in Sella's aligned-summit photograph was misleading, but the mountain remains a remote glacier and ridge climb. Wind, cold, crevasses and route-finding across the twin-summit terrain are significant concerns.",
+    "historicalStory": "Vittorio Sella photographed the twin summits during the 1909 Italian K2 expedition. Viewed from the southeast, the summits aligned into a slender silhouette that looked nearly impregnable. Two teams raced to make the first ascent in 1956 and discovered that the routes were less steep than the photograph suggested.",
+    "firstAscent": {
+      "date": "1956-07-06",
+      "climbers": [
+        "John Hartog",
+        "Joe Brown",
+        "Tom Patey",
+        "Ian McNaught-Davis"
+      ],
+      "notes": "British team, by the northwest ridge, five days before the French team reached the summit by the eastern arête."
+    },
+    "notableExpeditions": [
+      "Vittorio Sella's 1909 photograph helped inspire the first ascent.",
+      "A French team made the second ascent by the eastern arête in July 1956.",
+      "In 2012, Sergei Nilov, Dmitry Golovchenko and Alexander Lange climbed a new route on the northeast face."
+    ],
+    "geography": "Muztagh Tower lies between the Baltoro and Sarpo Laggo glacier basins in the Baltoro Muztagh. The mountain straddles the Pakistan-China frontier.",
+    "interestingFacts": [
+      "Mustagh/Muztagh is commonly translated as “ice mountain.”",
+      "The 1909 photograph led climbers to overestimate the steepness of the eventual routes."
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=35.8267%2C76.3617",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/MuztaghTower.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:MuztaghTower.jpg",
+    "imageCredit": "See the linked Wikimedia Commons file page for photographer attribution.",
+    "imageLicense": "See the linked Wikimedia Commons file page for the file-specific license and terms.",
+    "references": [
+      {
+        "label": "Muztagh Tower overview",
+        "url": "https://en.wikipedia.org/wiki/Muztagh_Tower"
+      },
+      {
+        "label": "First ascent of the Mustagh Tower, American Alpine Journal",
+        "url": "https://publications.americanalpineclub.org/articles/12195717304"
+      },
+      {
+        "label": "The Muztagh Tower, Himalayan Journal",
+        "url": "https://www.himalayanclub.org/hj/20/4/the-muztagh-tower/"
+      }
+    ]
+  },
+  {
+    "id": "diran",
+    "name": "Diran",
+    "alternativeNames": ["Diran Peak", "Minapin"],
+    "nameOrigin": "The peak is also called Minapin, after nearby Minapin village and glacier. A separate linguistic origin for Diran is not confirmed in the cited references.",
+    "elevationM": 7266,
+    "country": ["Pakistan"],
+    "mountainRange": "Karakoram",
+    "region": "Bagrot Valley, Gilgit-Baltistan, Pakistan",
+    "coordinates": { "lat": 36.1167, "lon": 74.6667 },
+    "shortDescription": "A pyramid-shaped 7,266-metre summit east of Rakaposhi in the Karakoram.",
+    "climbingNotes": "Earlier expeditions were turned back by bad weather, deep snow and avalanches. The mountain's glaciers and steep snow-and-rock terrain require careful timing, acclimatization and current local route information.",
+    "historicalStory": "The user-provided spelling “Dirang” is not the standard name in mountaineering references; the documented peak is Diran, also called Diran Peak or Minapin. Earlier British, German and Austrian attempts were turned back by bad weather, deep snow and avalanche conditions. An Austrian expedition made the first ascent in 1968.",
+    "firstAscent": {
+      "date": "1968",
+      "climbers": ["Rainer Goeschl", "Rudolph Pischinger", "Hanns Schell"],
+      "notes": "Austrian expedition; the exact summit date is not confirmed in the cited summary."
+    },
+    "notableExpeditions": [
+      "A British expedition attempted the peak in 1958.",
+      "A German expedition attempted the peak in 1959.",
+      "An Austrian expedition was turned back in 1964 before making the first ascent in 1968."
+    ],
+    "geography": "Diran is in Bagrot Valley, east of Rakaposhi. The pyramid-shaped peak rises above glaciers and valleys in the western Karakoram.",
+    "interestingFacts": [
+      "Diran is the correct documented spelling, rather than Dirang.",
+      "Older mountaineering accounts also refer to the mountain as Minapin."
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=36.1167%2C74.6667",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Diran_P8050944.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Diran_P8050944.jpg",
+    "imageCredit": "See the linked Wikimedia Commons file page for photographer attribution.",
+    "imageLicense": "See the linked Wikimedia Commons file page for the file-specific license and terms.",
+    "references": [
+      {
+        "label": "Diran overview",
+        "url": "https://en.wikipedia.org/wiki/Diran"
+      },
+      {
+        "label": "Minapin or Diran, American Alpine Journal",
+        "url": "https://publications.americanalpineclub.org/articles/12196547601"
+      },
+      {
+        "label": "The story of an ice axe, Alpine Journal",
+        "url": "https://www.alpinejournal.org.uk/Contents/Contents_2000_files/AJ%202000%20190-199%20Inouye%20Diran.pdf"
+      }
+    ]
+  },
+  {
+    "id": "khunyang-chhish",
+    "name": "Khunyang Chhish",
+    "alternativeNames": ["Kunyang Chhish", "Kunyang Kish", "Khinyang Chhish"],
+    "nameOrigin": "The Burushaski name is commonly translated as “corner peak.” Several transliteration variants appear in expedition literature.",
+    "elevationM": 7852,
+    "country": ["Pakistan"],
+    "mountainRange": "Karakoram",
+    "region": "Northern flank of the Hispar Glacier, Gilgit-Baltistan, Pakistan",
+    "coordinates": { "lat": 36.2053, "lon": 75.2078 },
+    "shortDescription": "A steep, complex Karakoram summit above the Hispar Glacier, notable for great local relief and a short ascent record.",
+    "climbingNotes": "The South Ridge is long and remote; glacier travel, crevasses, avalanche exposure and high-altitude weather complicate both ascent and retreat. Several early attempts were fatal, and rescue options are extremely limited.",
+    "historicalStory": "Khunyang Chhish is often translated from Burushaski as “corner peak.” The first attempt in 1962 ended when an avalanche killed Major James Mills and Captain M. R. F. Jones. A Polish expedition led by Andrzej Zawada made the first ascent in 1971 by the long south ridge; later accounts describe very few successful ascents of the main summit.",
+    "firstAscent": {
+      "date": "1971-08-26",
+      "climbers": [
+        "Andrzej Heinrich",
+        "Jan Stryczyński",
+        "Ryszard Szafirski",
+        "Andrzej Zawada"
+      ],
+      "notes": "Polish expedition, via the South Ridge from the Pumari Chhish Glacier."
+    },
+    "notableExpeditions": [
+      "A 1962 avalanche killed two climbers during the first attempt.",
+      "The Polish team completed the first ascent in 1971, with Jan Franczuk dying in a crevasse accident during the expedition.",
+      "Mark Lowe and Keith Milne completed the second ascent by a northwest spur and north ridge route in 1988."
+    ],
+    "geography": "The main summit stands on the northern side of the Hispar Glacier and rises near the confluence with the Kunyang Glacier. The massif includes several separate subsidiary summits.",
+    "interestingFacts": [
+      "The main summit is 7,852 metres; the nearby north summit is a separate 7,108-metre peak.",
+      "The mountain's high local relief and complex ridges make it a remote, technically serious objective."
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=36.2053%2C75.2078",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Khunyang_Chhish_and_Pumari_Chhish.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Khunyang_Chhish_and_Pumari_Chhish.jpg",
+    "imageCredit": "See the linked Wikimedia Commons file page for photographer attribution.",
+    "imageLicense": "See the linked Wikimedia Commons file page for the file-specific license and terms.",
+    "references": [
+      {
+        "label": "Kunyang Chhish overview",
+        "url": "https://en.wikipedia.org/wiki/Kunyang_Chhish"
+      },
+      {
+        "label": "Khinyang Chhish climbed, Himalayan Journal",
+        "url": "https://www.himalayanclub.org/hj/31/35/khinyang-chhish-climbed/"
+      },
+      {
+        "label": "The second ascent, Alpine Journal",
+        "url": "https://www.alpinejournal.org.uk/Contents/Contents_1989-90_files/AJ%201989%2076-81%20Wingfield%20Kunyang.pdf"
+      }
+    ]
+  },
+  {
+    "id": "amin-brakk",
+    "name": "Amin Brakk",
+    "alternativeNames": ["Amin Brakk Tower"],
+    "nameOrigin": "Unknown in the reliable references verified for this profile.",
+    "elevationM": 5850,
+    "country": ["Pakistan"],
+    "mountainRange": "Karakoram",
+    "region": "Nangma Valley, Gilgit-Baltistan, Pakistan",
+    "coordinates": null,
+    "shortDescription": "A steep granite big-wall tower in Nangma Valley, one of the Karakoram's celebrated technical climbing areas.",
+    "climbingNotes": "Amin Brakk is a technical granite wall, with sustained climbing, route-finding and retreat logistics at altitude. Nangma Valley is remote; weather, rockfall and limited evacuation options require experienced teams and current expedition information.",
+    "historicalStory": "Amin Brakk is a granite tower rather than a high snow peak. It is known internationally for long, steep wall routes in the Nangma Valley, where access and weather are significant parts of an expedition. Reliable published references for its first ascent and exact elevation differ or are incomplete, so the first-ascent record is left unconfirmed here rather than assigning a climber or date without support.",
+    "firstAscent": {
+      "date": null,
+      "climbers": [],
+      "notes": "Unknown in the sources verified for this dataset. Published summaries vary; consult the American Alpine Journal expedition record before treating a claim as definitive."
+    },
+    "notableExpeditions": [
+      "The tower is associated with high-grade granite big-wall routes in Nangma Valley.",
+      "Expedition reporting should be consulted for route names, dates and first-ascent details; a specific first-ascent claim is not asserted here."
+    ],
+    "geography": "Amin Brakk rises in Nangma Valley in the Karakoram. Its granite faces are steep and sustained; the approach involves remote valley travel and changing mountain weather.",
+    "interestingFacts": [
+      "The rock tower's appeal is technical climbing rather than altitude alone.",
+      "Exact summit coordinates and a settled first-ascent record are not supplied because they were not confirmed from a reliable source in this research pass."
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Amin+Brakk%2C+Nangma+Valley%2C+Pakistan",
+    "imageUrl": null,
+    "imageSource": "https://www.planetmountain.com/en/photos/5708",
+    "imageCredit": "Photograph by arch Leopoldo Faria; the source page does not state a reuse license.",
+    "imageLicense": "Reuse permission is not stated; the image is not embedded. A labeled fallback is shown instead.",
+    "references": [
+      {
+        "label": "Wikimedia Commons: Amin Brakk media",
+        "url": "https://commons.wikimedia.org/wiki/Category:Amin_Brakk"
+      },
+      {
+        "label": "American Alpine Journal expedition reports",
+        "url": "https://publications.americanalpineclub.org/"
+      },
+      {
+        "label": "Nangma Valley expedition archive",
+        "url": "https://www.alpinejournal.org.uk/"
+      }
+    ]
+  },
+  {
+    "id": "mount-everest",
+    "name": "Mount Everest",
+    "alternativeNames": ["Sagarmatha", "Qomolangma", "Chomolungma", "Peak XV"],
+    "nameOrigin": "The English name honors surveyor George Everest, proposed by Andrew Waugh and adopted in 1865. Sagarmatha is the Nepali name; Qomolangma is Tibetan and commonly translated as “Holy Mother.”",
+    "elevationM": 8848.86,
+    "country": ["Nepal", "China"],
+    "mountainRange": "Himalaya",
+    "region": "Koshi Province, Nepal; Tibet Autonomous Region, China",
+    "coordinates": { "lat": 27.9883, "lon": 86.9253 },
+    "shortDescription": "Earth's highest summit above sea level stands on the Nepal-China border in the Mahalangur Himal.",
+    "climbingNotes": "The Nepal route crosses the Khumbu Icefall, Western Cwm and exposed South Col ridge; the Tibet route has steep rock steps and a high exposed ridge. Jet-stream winds, extreme cold, altitude illness, seracs, crevasses, avalanches and oxygen depletion are critical hazards.",
+    "historicalStory": "The 2020 joint Nepal-China survey set the agreed elevation at 8,848.86 metres, including snow and ice. Nepali Sagarmatha and Tibetan Qomolangma are established local names; the English name was proposed by Andrew Waugh in 1856 for surveyor George Everest and formally adopted by the Royal Geographical Society in 1865. The 1924 Mallory-Irvine attempt remains unconfirmed; the first documented ascent was in 1953.",
+    "firstAscent": {
+      "date": "1953-05-29",
+      "climbers": ["Edmund Hillary", "Tenzing Norgay"],
+      "notes": "First documented ascent and safe return, by the southeast ridge on the Nepal side. Earlier Mallory-Irvine summit claims from 1924 remain unproven."
+    },
+    "notableExpeditions": [
+      "The 1921 British reconnaissance expedition explored the north side.",
+      "The 1953 British expedition, led by John Hunt, achieved the first documented ascent.",
+      "In 1978, Reinhold Messner and Peter Habeler made the first ascent without supplemental oxygen.",
+      "In 2020, Nepal and China jointly announced the revised official height."
+    ],
+    "geography": "Everest lies on the international border between Nepal and China's Tibet Autonomous Region. The Khumbu Icefall, Western Cwm and South Col define the standard southeast route; the north route approaches via the Rongbuk Glacier.",
+    "interestingFacts": [
+      "Sagarmatha National Park is a UNESCO World Heritage Site on the Nepal side.",
+      "The 8,848.86-metre elevation measures the summit's snow-and-ice surface; rock elevation is lower.",
+      "The summit environment has jet-stream winds, extreme cold, thin air and objective hazards including avalanche and crevasse fall."
+    ],
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=27.9883%2C86.9253",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Mt._Everest_from_Gokyo_Ri_November_5%2C_2012.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Mt._Everest_from_Gokyo_Ri_November_5,_2012.jpg",
+    "imageCredit": "See the linked Wikimedia Commons file page for photographer attribution.",
+    "imageLicense": "See the linked Wikimedia Commons file page for the file-specific license and terms.",
+    "references": [
+      {
+        "label": "Mount Everest overview",
+        "url": "https://en.wikipedia.org/wiki/Mount_Everest"
+      },
+      {
+        "label": "BBC: agreed height announcement",
+        "url": "https://www.bbc.com/news/world-asia-55218443"
+      },
+      {
+        "label": "UNESCO: Sagarmatha National Park",
+        "url": "https://whc.unesco.org/en/list/120/"
+      },
+      {
+        "label": "Royal Geographical Society: 1953 ascent context",
+        "url": "https://www.rgs.org/"
+      }
+    ]
+  }
+]

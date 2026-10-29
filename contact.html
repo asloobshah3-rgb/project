@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Alpine Ascents mountaineering information and resources website">
+  <title>Contact | Alpine Ascents</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+</head>
+<body>
+<header class="site-header">
+  <div class="nav-wrap">
+    <a class="brand" href="index.html"><span class="brand-mark">▲</span><span>ALPINE<span class="brand-light">ASCENTS</span><small>THE MOUNTAIN JOURNAL</small></span></a>
+    <button class="menu-toggle" id="menu-toggle" aria-label="Open navigation" aria-expanded="false">☰</button>
+    <nav class="main-nav" id="main-nav" aria-label="Main navigation"><a href="index.html" class="">Home</a>
+<a href="about.html" class="">About</a>
+<a href="history.html" class="">History & Records</a>
+<a href="techniques.html" class="">Techniques</a>
+<a href="safety.html" class="">Safety</a>
+<a href="expeditions.html" class="">Expeditions</a>
+<a href="clubs.html" class="">Clubs & Map</a>
+<a href="gallery.html" class="">Gallery</a>
+<a href="news.html" class="">Latest</a>
+<a href="guidelines.html" class="">Guidelines</a>
+<a href="contact.html" class="active">Contact</a></nav>
+    <div class="visitor-box"><span class="visitor-dot"></span><span><b id="visitor-count">001</b><small>VISITORS</small></span></div>
+  </div>
+</header>
+<main>
+
+<section class="page-hero" style="--page-image:url('https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1800&q=85')"><div class="container"><p class="eyebrow">GET IN TOUCH</p><h1>Have a question?<br><em>Let's talk.</em></h1><p>This contact form does not send messages to a server.</p></div></section>
+<section class="section container contact-grid"><div><p class="eyebrow dark">CONTACT THE TEAM</p><h2>Curiosity is<br><em>always welcome.</em></h2><p class="muted">Use this contact page to reach the team. Connect the form to a backend or form service to receive submissions.</p><div class="contact-detail"><span>EMAIL</span><p>hello@alpineascents.example</p></div><div class="contact-detail"><span>LOCATION</span><p>Mountain community • Worldwide</p></div></div><form id="contact-form" class="contact-form"><label for="name">Your name</label><input id="name" name="name" placeholder="Enter your name" required><label for="email">Email address</label><input id="email" name="email" type="email" placeholder="you@example.com" required><label for="topic">Subject</label><select id="topic" name="topic"><option>General question</option><option>Website feedback</option><option>Mountaineering information</option></select><label for="message">Message</label><textarea id="message" name="message" rows="5" placeholder="Write your message..." required></textarea><button class="btn btn-primary" type="submit">Send message <span>↗</span></button><p id="form-message" class="form-message" role="status"></p></form></section>
+
+</main>
+<footer class="site-footer">
+  <div class="container footer-main"><a class="brand brand-footer" href="index.html"><span class="brand-mark">▲</span><span>ALPINE<span class="brand-light">ASCENTS</span><small>THE MOUNTAIN JOURNAL</small></span></a><p>Explore thoughtfully. Prepare carefully. Respect the mountains.</p><div class="footer-links"><a href="guidelines.html">Guidelines</a><a href="safety.html">Safety</a><a href="contact.html">Contact</a></div></div>
+  <div class="ticker"><span class="ticker-label">MOUNTAIN DESK</span><div class="ticker-window"><div class="ticker-track" id="ticker-track">Loading local date, time and location… &nbsp; • &nbsp; ALPINE ASCENTS &nbsp; • &nbsp; PLAN RESPONSIBLY &nbsp; • &nbsp;</div></div></div>
+  <div class="footer-bottom container"><span>© <span id="year"></span> Alpine Ascents</span><span>DESIGNED FOR EXPLORERS <b>↗</b></span></div>
+</footer>
+</body>
+</html>

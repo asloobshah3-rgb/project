@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Verified mountain geography, climbing history and references from the Summit Atlas."
+    />
+    <title>Mountain Details | Summit Atlas</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script defer src="script.js"></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="nav-wrap">
+        <a class="brand" href="index.html"
+          ><span class="brand-mark">▲</span
+          ><span
+            >ALPINE<span class="brand-light">ASCENTS</span
+            ><small>THE MOUNTAIN JOURNAL</small></span
+          ></a
+        >
+        <button
+          class="menu-toggle"
+          id="menu-toggle"
+          aria-label="Open navigation"
+          aria-expanded="false"
+        >
+          ☰
+        </button>
+        <nav class="main-nav" id="main-nav" aria-label="Main navigation">
+          <a href="index.html">Home</a>
+          <a href="about.html">About</a>
+          <a href="history.html">History & Records</a>
+          <a href="techniques.html">Techniques</a>
+          <a href="safety.html">Safety</a>
+          <a href="expeditions.html">Expeditions</a>
+          <a href="clubs.html">Clubs & Map</a>
+          <a href="gallery.html" class="active">Gallery</a>
+          <a href="news.html">Latest</a>
+          <a href="guidelines.html">Guidelines</a>
+          <a href="contact.html">Contact</a>
+        </nav>
+        <div class="visitor-box">
+          <span class="visitor-dot"></span
+          ><span><b id="visitor-count">001</b><small>VISITORS</small></span>
+        </div>
+      </div>
+    </header>
+    <main class="details-page" id="mountain-details">
+      <section class="container details-error">
+        <p class="eyebrow dark">SUMMIT ATLAS</p>
+        <h1>Loading mountain profile…</h1>
+      </section>
+    </main>
+    <footer class="site-footer">
+      <div class="container footer-main">
+        <a class="brand brand-footer" href="index.html"
+          ><span class="brand-mark">▲</span
+          ><span
+            >ALPINE<span class="brand-light">ASCENTS</span
+            ><small>THE MOUNTAIN JOURNAL</small></span
+          ></a
+        >
+        <p>Explore thoughtfully. Prepare carefully. Respect the mountains.</p>
+        <div class="footer-links">
+          <a href="guidelines.html">Guidelines</a
+          ><a href="safety.html">Safety</a><a href="contact.html">Contact</a>
+        </div>
+      </div>
+      <div class="ticker">
+        <span class="ticker-label">MOUNTAIN DESK</span>
+        <div class="ticker-window">
+          <div class="ticker-track" id="ticker-track">
+            Loading local date, time and location… &nbsp; • &nbsp; ALPINE
+            ASCENTS &nbsp; • &nbsp; PLAN RESPONSIBLY &nbsp; • &nbsp;
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom container">
+        <span
+          >© <span id="year"></span> Alpine Ascents</span
+        ><span>DESIGNED FOR EXPLORERS <b>↗</b></span>
+      </div>
+    </footer>
+  </body>
+</html>
